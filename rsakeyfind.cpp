@@ -8,6 +8,8 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/mman.h>
+#include <unistd.h>
+#include <cstring>
 #include <string>
 #include <iostream>
 
